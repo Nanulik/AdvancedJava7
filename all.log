@@ -1,0 +1,7 @@
+2022-08-12 19:12:17.294 [main] INFO  StaticClassesEnumsExceptions.Calculator - Running method Calculate
+2022-08-12 19:12:17.300 [main] INFO  StaticClassesEnumsExceptions.Calculator - result: 5.0
+2022-08-12 19:12:17.301 [main] INFO  StaticClassesEnumsExceptions.Calculator - Running method Calculate
+2022-08-12 19:12:17.302 [main] INFO  StaticClassesEnumsExceptions.Calculator - Running method Calculate
+2022-08-12 19:12:17.302 [main] INFO  StaticClassesEnumsExceptions.Calculator - result Logger12.0
+2022-08-12 19:12:17.303 [main] INFO  StaticClassesEnumsExceptions.Calculator - Running method Calculate
+2022-08-12 19:12:17.303 [main] INFO  StaticClassesEnumsExceptions.Calculator - result Logger 27.0
